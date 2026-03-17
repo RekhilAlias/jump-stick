@@ -1,3 +1,3 @@
 # Javascript-game
-Javascript mini subway surfers game.
+Javascript based mini subway surfers game.
 https://rekhilalias.github.io/Javascript-game/
